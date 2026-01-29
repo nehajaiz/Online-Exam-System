@@ -1,5 +1,6 @@
 # Online-Exam-System
 Online Exam System is a browser-based exam platform built with HTML, CSS, and JavaScript, featuring timer-based auto submission, question randomization, anti-cheating logic (tab switch &amp; fullscreen detection), auto-save functionality, and instant result analytics. Designed to simulate a real online exam environment with a clean, responsive UI.
+
 🚀 Features
 🕒 Exam Management
 Countdown timer with auto-submit
