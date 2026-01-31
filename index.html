@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Exam System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <div id="start-screen">
+            <h1>Online Exam System</h1>
+            <input type="text" id="student-name" placeholder="Enter your name" required>
+            <button id="start-btn">Start Exam</button>
+        </div>
+        <div id="exam-screen" class="hidden">
+            <header>
+                <div id="timer">Time: 00:00</div>
+                <div id="warnings">Warnings: 0</div>
+                <button id="fullscreen-btn">Enter Fullscreen</button>
+                <button id="theme-toggle">Toggle Theme</button>
+            </header>
+            <div id="question-container">
+                <div id="question-text"></div>
+                <div id="options"></div>
+                <div id="nav-buttons">
+                    <button id="prev-btn">Previous</button>
+                    <button id="next-btn">Next</button>
+                    <button id="review-btn">Mark for Review</button>
+                    <button id="submit-btn">Submit Exam</button>
+                </div>
+            </div>
+            <div id="palette">
+                <h3>Question Palette</h3>
+                <div id="palette-buttons"></div>
+            </div>
+        </div>
+        <div id="results-screen" class="hidden">
+            <h2>Exam Results</h2>
+            <div id="score"></div>
+            <div id="analysis"></div>
+            <div id="anti-cheat-report"></div>
+            <button id="restart-btn">Restart Exam</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
