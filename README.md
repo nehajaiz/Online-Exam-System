@@ -54,6 +54,12 @@ Backend integration
 Real-time webcam proctoring
 PDF result export
 
+#screenshot
+<img width="630" height="731" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ee9e4878-0ad3-4ecb-977d-f01d7bc6d2f5" />
+<img width="1158" height="569" alt="Screenshot 2" src="https://github.com/user-attachments/assets/29cbbfc4-5a84-45ff-9d7f-a6ba83386e93" />
+<img width="356" height="473" alt="Screenshot 3" src="https://github.com/user-attachments/assets/94a002b6-6b4a-4bf6-a8c2-f848ab7cf19e" />
+
+
 🌐 Live Demo
 
-https://github.com/nehajaiz/Online-Exam-System/edit/main/README.md
+https://github.com/nehajaiz/Online-Exam-System/
