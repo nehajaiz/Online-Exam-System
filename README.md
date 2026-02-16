@@ -1,4 +1,5 @@
 # Online-Exam-System
+
 Online Exam System is a browser-based exam platform built with HTML, CSS, and JavaScript, featuring timer-based auto submission, question randomization, anti-cheating logic (tab switch &amp; fullscreen detection), auto-save functionality, and instant result analytics. Designed to simulate a real online exam environment with a clean, responsive UI.
 
 🚀 Features
@@ -54,7 +55,7 @@ Backend integration
 Real-time webcam proctoring
 PDF result export
 
-#screenshot
+##screenshots
 
 <img width="630" height="731" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ee9e4878-0ad3-4ecb-977d-f01d7bc6d2f5" />
 <img width="1158" height="569" alt="Screenshot 2" src="https://github.com/user-attachments/assets/29cbbfc4-5a84-45ff-9d7f-a6ba83386e93" />
@@ -62,4 +63,5 @@ PDF result export
 
 
 🌐 Live Demo
+
 https://github.com/nehajaiz/Online-Exam-System
