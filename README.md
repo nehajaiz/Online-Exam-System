@@ -65,3 +65,6 @@ PDF result export
 🌐 Live Demo
 
 https://github.com/nehajaiz/Online-Exam-System
+
+
+⭐ If you like this project, please give it a star!
