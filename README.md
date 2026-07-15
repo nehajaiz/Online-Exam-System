@@ -67,4 +67,7 @@ PDF result export
 https://github.com/nehajaiz/Online-Exam-System
 
 
-⭐ If you like this project, please give it a star!
+⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates further development.
