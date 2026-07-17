@@ -33,7 +33,8 @@ Restore progress on accidental refresh
 Instant result generation
 Score, accuracy, and time analysis
 Correct vs incorrect summary
-Exam integrity status (Clean / Suspicious / Disqualified)
+Exam integrity status 
+(Clean / Suspicious / Disqualified)
 
 🎨 UI / UX
 
